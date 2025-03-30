@@ -1,0 +1,16 @@
+*   fad5271 (HEAD -> master, origin/master) Merge branch 'master' of https://github.com/emqqqqq/SI_2025_lab1_233128
+|\
+| *   42da65a Merge pull request #11 from emqqqqq/5-filter-tasks-by-category
+| |\
+| | * 87258f6 (origin/5-filter-tasks-by-category, 5-filter-tasks-by-category) implement filterByCategory
+| * |   51e6eda Merge pull request #10 from emqqqqq/1-remove-a-task-by-name
+| |\ \
+| | |/
+| |/|
+| | * ee6b75c (origin/1-remove-a-task-by-name, 1-remove-a-task-by-name) implement removeTask
+| |/
+* / 8ecff53 (origin/7-count-tasks-per-category, 7-count-tasks-per-category) implement countTasksperCategory
+|/
+* b1afa65 Add starter code
+* 23b81b2 Initial commit
+
